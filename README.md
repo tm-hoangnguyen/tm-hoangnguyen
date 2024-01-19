@@ -10,17 +10,16 @@
 - 🤔 I’m looking for help with Data Engineer or Data Scientist job offer
 
 
-- 🔭 I’m currently working on [Healthcare Stock Analysis project](https://github.com/aqnguy30/healthcare-stock-analysis)  
+- 🔭 I’m currently working on [World Export Performance Analysis Project](https://github.com/tm-hoangnguyen/Determinants-of-Export-Performance)  
   
 
-- 🌱 I’m currently learning Docker and AWS  
+- 🌱 I’m currently taking model analytics courses at Georgia Tech 
   
 
 - ❓ Ask me about anything related to Data Science, Data Engineer and related technologies  
   
 
-- ⚡ Fun fact: my first name - Aspire N Humble :)  
-  
+- ⚡ Favorite quote: Progress is born of doubt and inquiry (by Hudson Maxim) 🥸  
 
 <br/>  
 
