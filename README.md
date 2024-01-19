@@ -56,29 +56,21 @@
 
 ## Connect With Me  
 <div align="center">
-<a href="https://github.com/aqnguy30" target="_blank">
+<a href="https://github.com/tm-hoangnguyen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/aqnguy30/" target="_blank">
+<a href="https://www.linkedin.com/in/nguyenthoang/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/aqnguy30/" target="_blank">
+<a href="https://www.facebook.com/people/Nguyen-Hoang/pfbid02WXbWPPw3daA8Lk4oxo31eGVcukDr3hniQcZcHXZBuhjQfZojPqm1dzjFCC4PbgZ2l/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<!--
-<a href="https://twitter.com/Tony38156098" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/tony_nguyen97/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
--->
 </div>  
   
 
 <br/>  
 
-- 📫 Fastest way to reach me: **quocanh191997@gmail.com**
+- 📫 Fastest way to reach me: **hoang.ntm2001@gmail.com**
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aqnguy30d&&style=flat-square" align="center" />
