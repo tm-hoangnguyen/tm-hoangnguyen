@@ -1,31 +1,13 @@
 
 <!--
-**aqnguy30/aqnguy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <img src="https://github.com/aqnguy30/aqnguy30/blob/main/hello1.gif" align="center" style="width: 100%" />
-</div>  
+</div>  -->
+
+### <div align="center">I'm a Graduate Student, Engineer and Data Enthusiast 👨🏻‍💻 love working with data since 2020 🚀</div>  
   
 
-### <div align="center">I'm a Master's Graduate, Engineer and Scientist 👨‍💻 love working with data since 2014 🚀</div>  
-  
-
-- 🤔 I’m looking for help with Software Engineer, Data Scientist or Data Engineer job offer
-
-
-<!-- - 🔭 I’m currently working on [Data Science Projects](https://github.com/aqnguy30?tab=repositories) -->
+- 🤔 I’m looking for help with Data Engineer or Data Scientist job offer
 
 
 - 🔭 I’m currently working on [Healthcare Stock Analysis project](https://github.com/aqnguy30/healthcare-stock-analysis)  
