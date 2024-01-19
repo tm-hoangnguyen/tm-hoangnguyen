@@ -71,27 +71,3 @@
 <br/>  
 
 - 📫 Fastest way to reach me: **hoang.ntm2001@gmail.com**
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aqnguy30d&&style=flat-square" align="center" />
-</div>  
-
-<br/>
-
-<div style="display: flex;
-	flex-wrap: wrap;
-	grid-gap: 50px;
-	justify-content: center;
-	justify-items: center;" >
-
-<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aqnguy30&show_icons=true&count_private=true&hide_border=true" alt="aqnguy30" /></p>
-
-<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnguy30&" alt="aqnguy30" /></p>
-	
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqnguy30&show_icons=true&locale=en&layout=compact" alt="aqnguy30" /></p>
-	
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqnguy30" alt="aqnguy30" /></a> </p>
-</div>
-  
-
-<br/>  
