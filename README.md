@@ -19,7 +19,7 @@
 - ❓ Ask me about anything related to Data Science, Data Engineer and related technologies  
   
 
-- ⚡ Favorite quote: Progress is born of doubt and inquiry (by Hudson Maxim) 🥸  
+- ⚡ Favorite quote: "Progress is born of doubt and inquiry" (by Hudson Maxim) 🥸  
 
 <br/>  
 
