@@ -27,6 +27,9 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> <img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="R" width="50" height="50"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://hadoop.apache.org/elephant.png" alt="R" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://matterly.io/wp-content/uploads/2022/11/Tableau-Emblem.png" alt="R" width="50" height="40"/> </a>
 </p>
 <br/>
 
