@@ -34,6 +34,7 @@
 <a href="https://cloud.google.com/why-google-cloud/?hl=en"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" alt="Google Cloud" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="R" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/looker-bi?hl=en" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT916ES4MNPoxEuDelY7fLpO-Xe6OdnbMz8EZOQmBzu3g&s" alt="R" width="50" height="45"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" alt="Docker" width="50" height="45"/> </a>
 </p>
 <br/>
 
