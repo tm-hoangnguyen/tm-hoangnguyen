@@ -1,19 +1,5 @@
 
-<!--
-<div align="center">
-<img src="https://github.com/aqnguy30/aqnguy30/blob/main/hello1.gif" align="center" style="width: 100%" />
-</div>  -->
-
 ### <div align="center">I'm a Graduate Student, Engineer and Data Enthusiast 👨🏻‍💻 love working with data since 2020 🚀</div>  
-  
-
-- 🤔 I’m looking for help with Data Engineer or Data Scientist job offer
-
-
-- 🔭 I’m currently working on [World Export Performance Analysis Project](https://github.com/tm-hoangnguyen/Determinants-of-Export-Performance)  
-  
-
-- 🌱 I’m currently taking model analytics courses at Georgia Tech 
   
 
 - ❓ Ask me about anything related to Data Science, Data Engineer and related technologies  
